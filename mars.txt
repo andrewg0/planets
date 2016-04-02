@@ -2,4 +2,8 @@ Cold and dry, but red is very nice.
 Two moons may be a problem Wolfman.
 Maybe other creatures will join us.
 The days are long and the nights longer.
+<<<<<<< HEAD
 This is a changed line.
+=======
+yoyo
+>>>>>>> bc99f35a680c2e84da82a98e3a5ec3b66f672c2d
