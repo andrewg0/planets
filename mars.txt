@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cold and dry, but red is very nice.
 Two moons may be a problem Wolfman.
 Maybe other creatures will join us.
@@ -7,3 +8,8 @@ This is a changed line.
 =======
 yoyo
 >>>>>>> bc99f35a680c2e84da82a98e3a5ec3b66f672c2d
+=======
+Mars is red
+2 moons is a problem for Wolfman
+I wonder if other creatures will join us
+>>>>>>> ad5e1e6b4ecf5728fc163d00789709735de6bf21
